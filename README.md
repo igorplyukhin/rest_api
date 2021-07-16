@@ -1,5 +1,7 @@
 # rest_api
 Simple RESTfull API using Spring Boot & Postgres
+## Deploy
+https://znay-pomosh.ru/api/products/UGG-BB-PUR-05
 ## Starting up
 1. `git clone https://github.com/igorplyukhin/rest_api`
 2. `cd rest_api`
